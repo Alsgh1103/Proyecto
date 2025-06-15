@@ -4,6 +4,6 @@ Programación
 using namespace std;
 
 int main(){
-cout<<"hola mundo";
+cout<<"Se puede editar?;
 return 0;
 }
